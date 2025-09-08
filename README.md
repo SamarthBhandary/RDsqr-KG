@@ -14,7 +14,6 @@ The lack of potential treatment candidates is a critical issue in managing rare 
 * Run analyses to generate and validate drug-disease hypotheses.
 
 ## Folders
-* KG_datasets/   -         preprocessed and mapped datasets used for building the knowledge graph
 * Knowledge_Graph/    -    scripts to constructing the graph and a zip file with the knowledge graph
 * Mapping/            -    mapping notebooks for subject-object relationships
 * Preprocessing/       -   preprocessing scripts
